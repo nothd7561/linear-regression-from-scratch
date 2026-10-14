@@ -28,7 +28,7 @@ On the tips data, the fit gives tip ≈ 0.92 + 0.105 × total_bill.
 
 ## How to run
 
-1. Open `[notebook name].ipynb` in Google Colab (or any Jupyter environment)
+1. Open `[lin_reg_scratch].ipynb` in Google Colab (or any Jupyter environment)
 2. Run all cells in order. Requires `numpy`, `seaborn`, and `scikit-learn`
    (all preinstalled in Colab)
 - You can change the mini manual data to whatever you like. Must be same length for x and y value arrays.
